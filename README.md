@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Advanced Solidity, ZK-Proofs, and UX Design**
 
-- 👨‍💻 All of my projects are available at [https://noahojile.vercel.app/](https://noahojile.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://noahojile.vercel.app/](https://noahojile.vercel.app/)
 
 - 📫 How to reach me **noahojile04@gmail.com**
 
