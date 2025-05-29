@@ -44,6 +44,9 @@
   <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat&logo=ethereum&logoColor=white&labelColor=3C3C3D&borderRadius=9999" alt="Ethers.js" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=F05032&borderRadius=9999" alt="Git" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white&labelColor=F37626&borderRadius=9999" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white&labelColor=F5792A&borderRadius=9999" alt="Blender" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white&labelColor=3ECF8E&borderRadius=9999" alt="Supabase" />
+
 </p>
 
 ---
