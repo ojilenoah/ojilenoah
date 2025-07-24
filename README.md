@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Noah Ojile</h1>
 
 <h3 align="center">
-  Full-Stack Developer | Blockchain Enthusiast | AI Explorer
+  Full-Stack Developer | ⚡ Custom Digital Systems Builder | 🧠 AI-Assisted Development | CS Background | 🛠 Apps • Automations
   <img src="https://komarev.com/ghpvc/?username=noahojile&label=Profile%20views&color=0e75b6&style=flat-square" alt="noahojile" width="90"/>
 </h3>
 
