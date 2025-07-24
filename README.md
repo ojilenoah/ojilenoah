@@ -8,17 +8,9 @@
 </h3>
 
 ---
-
-- 🔭 I’m currently working on **Blockchain and Web3 projects** like [BlockID](https://blockidnoah.vercel.app) and [BlockVote](http://blockvotezero.vercel.app)
-
-- 🌱 I’m currently learning **Advanced Solidity, ZK-Proofs, and UX Design**
-
-- 👨‍💻 Some of my projects are available at [https://noahojile.vercel.app/](https://noahojile.vercel.app/)
-
+- 👨‍💻 Some of my projects are available at [My Portfolio](https://noahojile.vercel.app/)
 - 📫 How to reach me **noahojile04@gmail.com**
-
-- 🎨 I'm also good at **drawing and art**
-
+- 🤖 I also make **AI Autoations**
 ---
 
 <h3 align="left">Connect with me:</h3>
